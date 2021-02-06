@@ -25,7 +25,7 @@ Generate a report of what cryptocurrencies are available on the trading market a
 
 ### Files
 
-* [crypto_clustering.ipynb](Starter_Files/crypto_clustering.ipynb)
+* [crypto_clustering.ipynb](crypto_clustering.ipynb)
 
 ---
 
