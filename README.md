@@ -1,4 +1,4 @@
-The Power of the Cloud and Unsupervised Learning
+AWS Cloud and Unsupervised Learning
 
 
 ## Clustering Crypto
