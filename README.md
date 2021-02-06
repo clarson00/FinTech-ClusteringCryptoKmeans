@@ -1,4 +1,4 @@
-# Unit 13 Homework Assignment - The Power of the Cloud and Unsupervised Learning
+The Power of the Cloud and Unsupervised Learning
 
 
 ## Option 2: Clustering Crypto
